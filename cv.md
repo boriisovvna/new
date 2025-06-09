@@ -1,1 +1,1 @@
-![cat](cat.jpg =250x250)
+![cat](cat.jpg =100x200)
