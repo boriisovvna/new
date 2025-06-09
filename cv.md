@@ -1,1 +1,1 @@
-![cat](C:/Users/ArthurVika/Desktop/cat.jpg)
+![cat](/Users/ArthurVika/Desktop/cat.jpg)
